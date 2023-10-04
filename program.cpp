@@ -3,10 +3,9 @@
 
 int main()
 { initwindow(800,600);
- house(); // дом
- sun(); // солнце
- man(); // человек
- fence(); // забор
- getch();
- closegraph();
+   // sun(); // солнце
+   // house(); // дом
+   fence(); // забор
+   getch();
+   closegraph();
 }
