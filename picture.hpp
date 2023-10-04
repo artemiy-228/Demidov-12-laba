@@ -1,3 +1,4 @@
-void house(); // 1 участник house.cpp
-void sun(); // 2 участник sun.cpp
-void fence(); // 3 участник fence.cpp
+void house(); // 1 ГіГ·Г Г±ГІГ­ГЁГЄ house.cpp
+void sun(); // 2 ГіГ·Г Г±ГІГ­ГЁГЄ sun.cpp
+void fence(); // 3 ГіГ·Г Г±ГІГ­ГЁГЄ fence.cpp
+

@@ -4,7 +4,7 @@
 
 int main()
 { initwindow(800,600);
-   sun(); // солнце
+   sun(); // ������
    house(); // дом
    fence(); // забор
    getch();
