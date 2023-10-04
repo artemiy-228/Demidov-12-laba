@@ -1,3 +1,5 @@
 *.o
 *.exe
 project.api
+*.ini
+Makefile
