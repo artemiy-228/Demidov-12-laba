@@ -2,4 +2,5 @@
 *.exe
 project.api
 Makefile
+UnitTests
 release/
