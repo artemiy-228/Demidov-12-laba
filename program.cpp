@@ -1,9 +1,12 @@
 #include "graphics.h"
 #include "picture.hpp"
+#include<iostream>
 
 int main()
 { initwindow(800,600);
-   sun(); // солнце
+   sun(); // пїЅпїЅпїЅпїЅпїЅпїЅ
+   house(); // РґРѕРј
+   fence(); // Р·Р°Р±РѕСЂ
    getch();
    closegraph();
 }
