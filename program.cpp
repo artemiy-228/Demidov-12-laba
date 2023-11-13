@@ -5,6 +5,7 @@ int main()
 { initwindow(800,600);
    sun(); // солнце
    house(); // дом
+   man();
    fence(); // забор
    getch();
    closegraph();
