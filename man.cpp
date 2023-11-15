@@ -7,7 +7,7 @@ void man(){
    
    setfillstyle(SOLID_FILL, bodyc);
    setcolor(bodyc);
-   fillellipse(175, 315, 30, 25);
+   fillellipse(175, 215, 30, 25);
    fillellipse(225, 315, 30, 25);
    fillellipse(200, 375, 50, 90);
    
